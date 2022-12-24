@@ -8,12 +8,11 @@ Department of Informatics and Telecommunications
  
  
 Authors:								            
-
 SKORDAS CHARISIS 1115201900342
+
 CHRISTOFOROS KATSANAKIS 1115201900079
 
 Supervisor:
-
 DR.ALEXANDRAKIS
  
  
