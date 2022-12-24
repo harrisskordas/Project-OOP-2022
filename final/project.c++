@@ -13,7 +13,7 @@ int main(int argc, char *argv[]){
 
     MapTile map;
     Avatar* av;
-	vector<Vampire*> vv;
+    vector<Vampire*> vv;
     vector<Werewolf*> vw;
     int water_count, tree_count, creature_count, v_count, w_count;
     int wx, wy;
