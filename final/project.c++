@@ -676,10 +676,10 @@ int main(int argc, char *argv[]){
                                                 cin >> ans;
                                                 while (ans.compare("Yes")!=0 || ans.compare("No")!=0){
                                                     cout << "Input Error.User gave unexpected input" << endl;
-                                                    cout << "Do you want to heal him by 1 health?Doing so you will not be able to move. Type 'yes' or 'no'" << endl;
+                                                    cout << "Do you want to heal him by 1 health?Doing so you will not be able to move. Type 'Yes' or 'No'" << endl;
                                                     cin >> ans;
                                                 }
-                                                if((ans.compare("yes")==0 && state=="DAY" && choice==0) || (ans.compare("yes")==0 && state=="NIGHT" && choice==1)){
+                                                if((ans.compare("Yes")==0 && state=="DAY" && choice==0) || (ans.compare("Yes")==0 && state=="NIGHT" && choice==1)){
                                                     manaa=0;
                                                     cout << "You are healing " << x->getname() << endl;
                                                     av->subpotion();
