@@ -7,7 +7,7 @@ Department of Informatics and Telecommunications
 
  
  
-Authors:								            
+Author:								            
 SKORDAS CHARISIS 1115201900342
 
 Supervisor:
